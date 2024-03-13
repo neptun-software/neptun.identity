@@ -1,6 +1,6 @@
 # Neptun
 
-CICD configs with ease using AI. No entry barrier. CICD for everyone.
+Automated Tech Stack Configuration powered by AI. No entry barrier.
 
-## Corporate Identity / Corporate Image
+## Corporate Identity
 
